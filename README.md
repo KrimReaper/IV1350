@@ -1,0 +1,2 @@
+# IV1350
+This repository covers all the labs in the course IV1350 Object-oriented design, including astah files, documents and images. For future students: Do not just copy the tasks. Instead use them as a reference and guideline.
