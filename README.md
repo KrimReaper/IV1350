@@ -8,3 +8,4 @@ This repository covers all the labs in the course IV1350 Object-oriented design,
 - [ ] 4. Exceptions and design patterns
 
 For seminar 5 the following tasks were redone:
+1, 2
